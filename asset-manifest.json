@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/practice2sell/static/css/main.aed11a7b.css",
-    "main.js": "/practice2sell/static/js/main.9fe9f5b4.js",
+    "main.js": "/practice2sell/static/js/main.78a90570.js",
     "index.html": "/practice2sell/index.html",
     "main.aed11a7b.css.map": "/practice2sell/static/css/main.aed11a7b.css.map",
-    "main.9fe9f5b4.js.map": "/practice2sell/static/js/main.9fe9f5b4.js.map"
+    "main.78a90570.js.map": "/practice2sell/static/js/main.78a90570.js.map"
   },
   "entrypoints": [
     "static/css/main.aed11a7b.css",
-    "static/js/main.9fe9f5b4.js"
+    "static/js/main.78a90570.js"
   ]
 }
